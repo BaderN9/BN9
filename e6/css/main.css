@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+}
+#container {
+  width: 120%;
+  margin-left: -10%;
+  margin-top: -50px;
+}
+.tile1, .tile2, .tile3 {
+  width: 100px;
+  height: 100px;
+  margin: -10px;
+  float: left;
+  opacity: .8;
+}
+.tile1 {
+  background-color: dodgerblue;
+}
+.tile2 {
+  background-color: black;
+}
+.tile3 {
+  background-color: pink;
+}
+
+.tile4, .tile5, .tile6 {
+  width: 100px;
+  height: 100px;
+  margin: 75px;
+  float: left;
+  opacity: .8;
+
+}
+  .tile4 {
+    width: 0;
+     height: 0;
+     border-left: 50px solid transparent;
+     border-right: 50px solid transparent;
+     border-bottom: 100px solid red;
+  background-color: green;
+}
+  .tile5 {
+    width: 0;
+     height: 0;
+     border-left: 50px solid transparent;
+     border-right: 50px solid transparent;
+     border-bottom: 100px solid green;
+  background-color: yellow;
+}
+  .tile6 {
+    width: 0;
+     height: 0;
+     border-left: 50px solid transparent;
+     border-right: 50px solid transparent;
+     border-bottom: 100px solid yellow;
+  background-color: red;
+}
+
+.tile7, .tile8, .tile9 {
+  width: 120px;
+  height: 75px;
+  margin: 50px;
+  float: left;
+  opacity: .8;
+}
+.tile7 {
+  width: 100px;
+      height: 100px;
+      background: red;
+      border-radius: 50%;
+  background-color: gray;
+}
+.tile8 {
+  width: 150px;
+      height: 100px;
+      transform: skew(20deg);
+      background: black;
+
+}
+.tile9 {
+  border-bottom: 100px solid red;
+      border-left: 25px solid transparent;
+      border-right: 25px solid transparent;
+      height: 0;
+      width: 100px;
+  background-color: red;
+}
