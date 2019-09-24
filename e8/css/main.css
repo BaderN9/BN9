@@ -1,0 +1,19 @@
+body {
+  background-color: #444444;
+}
+#board {
+  width: 800px;
+  margin: 50px auto;
+}
+.Black {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  float: left;
+}
+.White {
+  width: 100px;
+  height: 100px;
+  background-color: White;
+  float: left;
+}
