@@ -1,0 +1,80 @@
+.cf:before,
+.cf:after {
+  content: " "; /* 1 */
+  display: table; /* 2 */
+}
+
+.cf:after {
+  clear: both;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: lightgreen;
+
+}
+#tennis {
+  background-color: peru;
+  width: 600px;
+  margin: 50px auto;
+}
+.side, .back, .middle {
+  float: left;
+  border: 2px solid white;
+}
+.side {
+  width: 100px;
+  height: 400px;
+}
+.back {
+  width: 400px;
+  height: 100px;
+}
+.middle {
+  width: 200px;
+  height: 300px;
+}
+.center {
+  width: 400px;
+  float: left;
+}
+
+
+#board {
+  background-color: gray;
+  width: 400px;
+  margin: 50px auto;
+}
+.A, .B, .C, .D, .E, .F {
+  float: left;
+  border: 2px solid white;
+}
+.cen{
+  width: 100px;
+  float: left;
+}
+.A {
+  width: 100px;
+  height: 200px;
+}
+.B {
+  width: 100px;
+  height: 100px;
+}
+.C {
+  width: 200px;
+  height: 100px;
+}
+.D {
+  width: 100px;
+  height: 200px;
+}
+.E {
+  width: 100px;
+  height: 400px;
+}
+.F {
+  width: 200px;
+  height: 400px;
+}

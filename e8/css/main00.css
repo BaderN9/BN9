@@ -1,0 +1,65 @@
+.cf:before,
+.cf:after {
+  content: " "; /* 1 */
+  display: table; /* 2 */
+}
+
+.cf:after {
+  clear: both;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: lightgreen;
+}
+#CC {
+  background-color: gray;
+  width: 400px;
+  margin: 50px auto;
+}
+.A, .B, .C, .D {
+  float: left;
+  border: 2px solid white;
+}
+.A1{
+  width: 50px;
+  height: 300px;
+  float: left;
+}
+.A2{
+  width: 50px;
+  height: 300px;
+  float: left;
+}
+.A3{
+  width: 100px;
+  height: 300px;
+  float: left;
+}
+.A4 {
+  width: 50px;
+  height: 400px;
+  float: left;
+}
+.A5{
+  width: 100px;
+  height: 400px;
+  float: left;
+}
+.A{
+  width: 50px;
+  height: 100px;
+}
+.B{
+  width: 100px;
+  height: 300px;
+}
+.C{
+  width: 50px;
+  height: 200px;
+}
+.D{
+  width: 100px;
+  height: 200px;
+}

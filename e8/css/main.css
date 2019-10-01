@@ -151,3 +151,34 @@ body {
   float: left;
   margin-top: 2px;
 }
+
+
+#CC {
+  background-color: gray;
+  width: 400px;
+  margin: 50px auto;
+}
+.A, .B, .C, .D {
+  float: left;
+  border: 2px solid white;
+}
+.A1{
+  width: 50px;
+  height: 300px;
+}
+.A{
+  width: 50px;
+  height: 100px;
+}
+.B{
+  width: 100px;
+  height: 300px;
+}
+.C{
+  width: 50px;
+  height: 200px;
+}
+.D{
+  width: 100px;
+  height: 200px;
+}
