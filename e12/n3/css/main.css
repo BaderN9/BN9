@@ -1,70 +1,51 @@
+* {
+  box-sizing: border-box;
+}
 body {
   text-align: center;
   margin: 0 auto;
-  background: rgb(29,29,29);
-  background: linear-gradient(0deg, rgba(29,29,29,1) 0%, rgba(11,11,73,1) 100%);
+
 
 }
 #container {
-  width: 600px;
+  width: 1000px;
   margin: 0 auto;
-  background: url(../11.jpg) no-repeat center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+
 }
 h1 {
-  font-family: 'Rock Salt', cursive;
-  font-size: 30px;
-  line-height: 0vw;
-  margin: 150px 0 0 0;
-  color: white;
+  text-align: left;
 
 }
 h4 {
-  font-family: 'M PLUS Rounded 1c', sans-serif;
-  font-size: 65px;
-  line-height: 0vw;
-  color: white;
-  transform: rotate(-90deg);
-
-
+ font-family: fantasy;
 }
 h3 {
-  font-family: 'Rock Salt', cursive;
-  font-size: 30px;
-  line-height: 2vw;
-  color: white;
 
 }
 h2 {
-  font-family: 'Anton', sans-serif;
-  font-size: 85px;
-  line-height: 3vw;
-  color: white;
 
 }
 p {
-  font-family: 'M PLUS Rounded 1c', sans-serif;
-  text-align: left;
-  color: white;
+text-align: left;
+}
+.a, .c, .d {
+  width: 400px;
+  float: left;
+  margin: 5px auto;
 
-
+}
+.A {
+  width: 200px;
+  height: 200px;
 }
 .a {
-  width: 30px;
-  height: 20vw;
-  float: left;
+
 }
 .b {
-  width: 540px;
-  height: 5vw;
-  margin: 0 auto;
 
 }
 .c {
-  margin: 50px 0 0 0;
-  width: 600px;
-  height: 250px;
+
+}
+.d {
 }

@@ -14,35 +14,48 @@ body {
 }
 h1{
   font-family: 'Audiowide', cursive;
-  font-size: 7vw;
-  line-height: 6vw;
+  font-size: 5.5vw;
+  line-height: 1vw;
   transform: rotate(-90deg);
   margin: 400px 0 0 0;
 
 }
 h2 {
   font-family: 'Julius Sans One', sans-serif;
-  font-size: 4.8vw;
-  line-height: 6vw;
+  font-size: 2.8vw;
+  line-height: 1vw;
   transform: rotate(-90deg);
   margin: 400px 0 0 0;
   color: white;
 }
+p {
+
+}
+h3 {
+  font-family: 'Audiowide', cursive;
+  font-size: 60pt;
+  line-height: 10pt;
+}
+h4 {
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 25pt;
+  line-height: 5pt;
+}
 .a {
   width: 10vw;
-  height: 150vw;
+  height: 105vw;
   background-color: brown;
   float: left;
 }
 .b {
   width: 8vw;
-  height: 150vw;
+  height: 105vw;
   background-color: gray;
   float: left;
 }
 .c {
   width: 37vw;
-  height: 150vw;
+  height: 105vw;
   float: left;
   padding: 0 30px;
 }
