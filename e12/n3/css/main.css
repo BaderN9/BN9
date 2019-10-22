@@ -8,44 +8,74 @@ body {
 
 }
 #container {
-  width: 1000px;
+  width: 900px;
+  height: 1800px;
   margin: 0 auto;
 
 }
 h1 {
-  text-align: left;
-
+font-family: 'Sigmar One', cursive;
+  font-size: 3vw;
 }
 h4 {
- font-family: fantasy;
+  font-family: 'Yesteryear', cursive;
+  font-size: 10pt;
+
 }
 h3 {
+  font-family: 'Lustria', serif;
+  font-size: 20pt;
+  margin: 80px auto;
 
 }
 h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 50pt;
 
 }
 p {
-text-align: left;
-}
-.a, .c, .d {
-  width: 400px;
-  float: left;
-  margin: 5px auto;
+  font-family: 'Lustria', serif;
 
+  text-align: left;
 }
-.A {
-  width: 200px;
-  height: 200px;
-}
+
 .a {
-
+  width: 600px;
+  height: 550px;
+  float: left;
 }
 .b {
-
+  width: 300px;
+  height: 550px;
+  float: left;
 }
 .c {
-
+  width: 285px;
+  height: 1250px;
+  float: left;
 }
 .d {
+  width: 290px;
+  height: 900px;
+  float: left;
+}
+.g {
+  width: 20px;
+  height: 1250px;
+  float: left;
+}
+.h {
+  width: 20px;
+  height: 900px;
+  float: left;
+}
+.m {
+  width: 285px;
+  height: 900px;
+  float: left;
+}
+.i {
+  width: 550px;
+  height: 300px;
+  float: left;
 }

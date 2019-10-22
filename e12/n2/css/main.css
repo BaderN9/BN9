@@ -15,7 +15,7 @@ body {
 h1{
   font-family: 'Audiowide', cursive;
   font-size: 5.5vw;
-  line-height: 1vw;
+  line-height: 0vw;
   transform: rotate(-90deg);
   margin: 400px 0 0 0;
 
@@ -23,7 +23,7 @@ h1{
 h2 {
   font-family: 'Julius Sans One', sans-serif;
   font-size: 2.8vw;
-  line-height: 1vw;
+  line-height: 0vw;
   transform: rotate(-90deg);
   margin: 400px 0 0 0;
   color: white;
@@ -43,13 +43,13 @@ h4 {
 }
 .a {
   width: 10vw;
-  height: 105vw;
+  height: 115vw;
   background-color: brown;
   float: left;
 }
 .b {
   width: 8vw;
-  height: 105vw;
+  height: 115vw;
   background-color: gray;
   float: left;
 }
