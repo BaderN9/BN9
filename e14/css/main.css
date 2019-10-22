@@ -1,0 +1,95 @@
+body {
+  background-color: whitesmoke;
+  font-family: monospace;
+}
+h3 {
+  font-style: italic;
+}
+h1 {
+  font-style: normal;
+}
+.intro {
+  font-style: italic;
+}
+p {
+  font-family: serif;
+}
+#container {
+  width: 50%;
+  margin: 0 auto;
+}
+h1 {
+  font-size: 3.052em;
+}
+
+h2 {
+  font-size: 2.441em;
+}
+
+h3 {
+  font-size: 1.953em;
+}
+
+h4 {
+  font-size: 1.563em;
+}
+
+h5 {
+  font-size: 1.25em;
+}
+@media only screen and (max-width: 1800px)
+{
+  body {
+    background-color: #888;
+    color: white;
+  }
+}
+@media only screen and (max-width: 1600px)
+{
+  body {
+    background-color: #777;
+    color: white;
+  }
+}
+@media only screen and (max-width: 1400px)
+{
+  body {
+    background-color: #666;
+    color: white;
+  }
+}
+@media only screen and (max-width: 1200px)
+{
+  body {
+    background-color: #555;
+    color: white;
+  }
+}
+@media only screen and (max-width: 1000px)
+{
+  body {
+    background-color: #444;
+    color: white;
+  }
+}
+@media only screen and (max-width: 800px)
+{
+  body {
+    background-color: #333;
+    color: white;
+  }
+}
+@media only screen and (max-width: 600px)
+{
+  body {
+    background-color: #222;
+    color: white;
+  }
+}
+@media only screen and (max-width: 400px)
+{
+  body {
+    background-color: #111;
+    color: white;
+  }
+}
