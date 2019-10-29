@@ -41,8 +41,17 @@ h4 {
   margin: 10px auto;
   text-decoration: underline;
 }
+h5 {
+  font-size: 20pt;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: white;
+  font-style: italic;
+  text-align: center;
+  margin: 5px auto;
+
+}
 a {
-  color: white
+  color: white;
   text-decoration: none;
   border-bottom: 5px;
   transition: color 0.5s ease;
@@ -185,6 +194,24 @@ p {
   float: left;
   background-color: #000000
 }
+.hh {
+  width: 720px;
+  height: 211px;
+  float: left;
+  background-color: #111
+}
+.hh {
+  width: 720px;
+  height: 211px;
+  float: left;
+}
+.hhh {
+  width: 250px;
+  height: 75px;
+  margin: 68px 235px;
+  background-color: #B20000;
+  padding: 15px;
+}
 .m {
   width: 1440px;
   height: 46px;
@@ -216,4 +243,29 @@ p {
   float: left;
   background-color: white;
   align: center;
+}
+.s {
+  width: 480px;
+  height: 161px;
+  float: left;
+  align: center;
+  padding: 65px;
+}
+.ss {
+  width: 480px;
+  height: 161px;
+  float: left;
+  align: center;
+  padding: 65px;
+}
+.sss {
+  width: 480px;
+  height: 161px;
+  float: left;
+  align: center;
+  padding: 65px;
+}
+img {
+  width: 40%;
+  height: auto;
 }
