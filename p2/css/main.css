@@ -50,6 +50,11 @@ h5 {
   margin: 5px auto;
 
 }
+h6 {
+  color: white;
+  float: left;
+  margin: 25px;
+}
 a {
   color: white;
   text-decoration: none;
