@@ -1,0 +1,89 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  text-align: center;
+  margin: 0 auto;
+  background-color: #111;
+}
+
+#container {
+  width: 270px;
+  height: 1000px;
+}
+.head {
+  width: 200px;
+  height: 250px;
+  background-color: orange;
+  float: left;
+}
+.ear {
+  width: 50px;
+  height: 50px;
+  background-color: darkorange;
+  float: left;
+}
+.space1 {
+  width: 50px;
+  height: 50px;
+  background-color: orange;
+  float: left;
+}
+.eye {
+  width: 50px;
+  height: 50px;
+  background-color: #222;
+  float: left;
+}
+.eyeball {
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  margin: 16px;
+}
+.mouth {
+  width: 100px;
+  height: 45px;
+  background-color: black;
+  float: left;
+}
+.teeth {
+  width: 0;
+     height: 0;
+     border-left: 7.5px solid transparent;
+     border-right: 7.5px solid transparent;
+     border-top: 22px solid white;
+  float: left;
+}
+.teeth1 {
+  width: 0;
+  height: 0;
+  border-left: 7.5px solid transparent;
+  border-right: 7.5px solid transparent;
+  border-bottom: 23px solid white;
+  float: left;
+}
+.nose {
+  width: 60px;
+  height: 50px;
+  background-color: darkorange;
+  float: left;
+}
+.nose1 {
+  width: 60px;
+  height: 50px;
+  background-color: #111;
+  float: left;
+}
+.nose2 {
+  width: 60px;
+  height: 150px;
+  background-color: #111;
+  float: left;
+}
+.nosething {
+  width: 13px;
+  height: 13px;
+  background-color: #333;
+  margin: 35px;
+}
