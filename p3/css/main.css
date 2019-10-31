@@ -1,0 +1,277 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  text-align: center;
+  margin: 0 auto;
+  background-color: #EFEFEF
+
+
+}
+#container {
+  width: 1440px;
+  height: 3147px;
+  margin: 0 auto;
+
+}
+h1 {
+font-size: 5vw;
+color: white;
+font-family: 'Passion One', cursive;
+margin: 30px auto;
+}
+h2 {
+  font-size: 3vw;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: white;
+  padding: 10px;
+}
+h3 {
+  font-size: 30px;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: left;
+  margin-left: 15px;
+}
+i {
+  font-size: 40px;
+  color: white;
+}
+h4 {
+  font-size: 16pt;
+  color: white;
+  margin: 10px auto;
+  text-decoration: underline;
+}
+h5 {
+  font-size: 20pt;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: white;
+  font-style: italic;
+  text-align: center;
+  margin: 5px auto;
+
+}
+h6 {
+  color: white;
+  float: left;
+  margin: 25px;
+}
+a {
+  color: white;
+  text-decoration: none;
+  border-bottom: 5px;
+  transition: color 0.5s ease;
+}
+a:hover {
+  color: black;
+}
+a:active {
+  color: black;
+}
+a:visited {
+  color: white;
+}
+a:focus {
+  color: black;
+}
+
+p {
+  font-size: 20px;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: left;
+  margin-left: 15px;
+
+}
+
+.a {
+  width: 1440px;
+  height: 164px;
+  float: left;
+  background-color: #000000
+}
+.b {
+  width: 1440px;
+  height: 161px;
+  float: left;
+  background-color: #B20000
+}
+.bb {
+  width: 100px;
+  height: 100px;
+  margin: 30px;
+  float: left;
+  background: url(../mu.png) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.bbb {
+  width: 1115px;
+  height: 161px;
+  float: left;
+}
+.bbbb {
+  width: 100px;
+  height: 100px;
+  margin: 30px;
+  float: left;
+  background: url(../adidas.png) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.c {
+  width: 725px;
+  height: 601px;
+  float: left;
+  background: url(../ole.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.cc {
+  width: 725px;
+  height: 601px;
+  float: left;
+}
+.ccc {
+  width: 725px;
+  height: 601px;
+  float: left;
+  background: url(../rashford.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.d {
+  width: 20px;
+  height: 601px;
+  float: left;
+}
+.e {
+  width: 658px;
+  height: 515px;
+  float: left;
+  margin: 18px 18px 0;
+  background-color: white;
+}
+.w {
+  width: 658px;
+  height: 50px;
+  float: left;
+  margin: 0 18px 18px;
+  background-color: #B20000
+}
+.g {
+  width: 0;
+  height: 0;
+  border-top: 20px solid transparent;
+  border-bottom: 20px solid transparent;
+  border-left: 20px solid black;
+  float: left;
+}
+.o {
+  width: 715px;
+  height: 601px;
+  float: left;
+  background: url(../pogba.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.oo {
+  width: 715px;
+  height: 601px;
+  float: left;
+  background: url(../fred.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.h {
+  width: 1440px;
+  height: 211px;
+  float: left;
+  background-color: #000000
+}
+.hh {
+  width: 720px;
+  height: 211px;
+  float: left;
+  background-color: #111
+}
+.hh {
+  width: 720px;
+  height: 211px;
+  float: left;
+}
+.hhh {
+  width: 250px;
+  height: 75px;
+  margin: 68px 235px;
+  background-color: #B20000;
+  padding: 15px;
+}
+.m {
+  width: 1440px;
+  height: 46px;
+  float: left;
+  background-color: #333
+}
+.i {
+  width: 100px;
+  height: 100px;
+  margin: 30px;
+  float: left;
+}
+.ii {
+  width: 50px;
+  height: 50px;
+  margin: 30px;
+  float: left;
+}
+.aa{
+  width: 1115px;
+  height: 164px;
+  float: left;
+}
+
+.bars {
+  width: 40px;
+  height: 5px;
+  margin: 5px;
+  float: left;
+  background-color: white;
+  align: center;
+}
+.s {
+  width: 480px;
+  height: 161px;
+  float: left;
+  align: center;
+  padding: 65px;
+}
+.ss {
+  width: 480px;
+  height: 161px;
+  float: left;
+  align: center;
+  padding: 65px;
+}
+.sss {
+  width: 480px;
+  height: 161px;
+  float: left;
+  align: center;
+  padding: 65px;
+}
+img {
+  width: 40%;
+  height: auto;
+}
