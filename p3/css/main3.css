@@ -9,7 +9,7 @@ body {
 
 }
 #container {
-  width: 1024px;
+  width: 768px;
   height: 3147px;
   margin: 0 auto;
 
@@ -21,13 +21,13 @@ font-family: 'Passion One', cursive;
 margin: 40px auto;
 }
 h2 {
-  font-size: 50px;
+  font-size: 40px;
   font-family: 'Roboto Condensed', sans-serif;
   color: white;
-  padding: 10px;
+  padding: 25px;
 }
 h3 {
-  font-size: 25px;
+  font-size: 30px;
   font-family: 'Source Sans Pro', sans-serif;
   text-align: left;
   margin-left: 15px;
@@ -45,12 +45,12 @@ h4 {
 
 }
 h5 {
-  font-size: 18pt;
+  font-size: 16pt;
   font-family: 'Roboto Condensed', sans-serif;
   color: white;
   font-style: italic;
   text-align: center;
-  margin: 5px auto;
+  margin: 1px auto;
 
 }
 h6 {
@@ -81,7 +81,7 @@ a:focus {
 }
 
 p {
-  font-size: 18px;
+  font-size: 20px;
   font-family: 'Source Sans Pro', sans-serif;
   text-align: left;
   margin-left: 15px;
@@ -89,13 +89,13 @@ p {
 }
 
 .a {
-  width: 1024px;
+  width: 768px;
   height: 164px;
   float: left;
   background-color: #000000
 }
 .b {
-  width: 1024px;
+  width: 768px;
   height: 161px;
   float: left;
   background-color: #B20000
@@ -112,7 +112,7 @@ p {
   background-size: cover;
 }
 .bbb {
-  width: 700px;
+  width: 448px;
   height: 161px;
   float: left;
 }
@@ -128,7 +128,7 @@ p {
   background-size: cover;
 }
 .c {
-  width: 512px;
+  width: 768px;
   height: 601px;
   float: left;
   background: url(../ole.jpg) no-repeat center center;
@@ -143,7 +143,7 @@ p {
   float: left;
 }
 .ccc {
-  width: 512px;
+  width: 768px;
   height: 601px;
   float: left;
   background: url(../rashford.jpg) no-repeat center center;
@@ -158,14 +158,14 @@ p {
   float: left;
 }
 .e {
-  width: 455px;
+  width: 730px;
   height: 515px;
   float: left;
   margin: 18px 18px 0;
   background-color: white;
 }
 .w {
-  width: 455px;
+  width: 730px;
   height: 50px;
   float: left;
   margin: 0 18px 18px;
@@ -180,7 +180,7 @@ p {
   float: left;
 }
 .o {
-  width: 512px;
+  width: 768px;
   height: 601px;
   float: left;
   background: url(../pogba.jpg) no-repeat center center;
@@ -190,7 +190,7 @@ p {
   background-size: cover;
 }
 .oo {
-  width: 512px;
+  width: 768px;
   height: 601px;
   float: left;
   background: url(../fred.jpg) no-repeat center center;
@@ -200,7 +200,7 @@ p {
   background-size: cover;
 }
 .h {
-  width: 1024px;
+  width: 768px;
   height: 211px;
   float: left;
   background-color: #000000
@@ -212,19 +212,19 @@ p {
   background-color: #111
 }
 .hh {
-  width: 512px;
+  width: 384px;
   height: 211px;
   float: left;
 }
 .hhh {
-  width: 190px;
-  height: 60px;
-  margin: 68px 150px;
+  width: 140px;
+  height: 45px;
+  margin: 68px 120px;
   background-color: #B20000;
-  padding: 9px;
+  padding: 8px;
 }
 .m {
-  width: 1024px;
+  width: 768px;
   height: 46px;
   float: left;
   background-color: #333
@@ -242,39 +242,39 @@ p {
   float: left;
 }
 .aa{
-  width: 700px;
+  width: 478px;
   height: 164px;
   float: left;
 }
 
 .bars {
-  width: 36px;
-  height: 2px;
-  margin: 5px;
+  width: 32px;
+  height: 1px;
+  margin: 4px;
   float: left;
   background-color: white;
   align: center;
 }
 .s {
-  width: 341px;
+  width: 256px;
   height: 161px;
   float: left;
   align: center;
-  padding-top: 40px;
+  padding-top: 55px;
 }
 .ss {
-  width: 341px;
+  width: 256px;
   height: 161px;
   float: left;
   align: center;
-padding-top: 10px;
+padding-top: 29px;
 }
 .sss {
-  width: 341px;
+  width: 256px;
   height: 161px;
   float: left;
   align: center;
-  padding-top: 42px;
+  padding-top: 54px;
 }
 img {
   width: 40%;

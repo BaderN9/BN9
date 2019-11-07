@@ -280,3 +280,864 @@ img {
   width: 40%;
   height: auto;
 }
+
+@media only screen and (max-width: 1439px)
+{
+  * {
+    box-sizing: border-box;
+  }
+  body {
+    text-align: center;
+    margin: 0 auto;
+    background-color: #EFEFEF
+
+
+  }
+  #container {
+    width: 1024px;
+    height: 3147px;
+    margin: 0 auto;
+
+  }
+  h1 {
+  font-size: 70px;
+  color: white;
+  font-family: 'Passion One', cursive;
+  margin: 40px auto;
+  }
+  h2 {
+    font-size: 50px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+    padding: 10px;
+  }
+  h3 {
+    font-size: 25px;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: left;
+    margin-left: 15px;
+  }
+  i {
+    font-size: 30px;
+    color: white;
+  }
+  h4 {
+    font-size: 16pt;
+    color: white;
+    margin: 10px auto;
+    text-decoration: underline;
+    font-family: 'Source Sans Pro', sans-serif;
+
+  }
+  h5 {
+    font-size: 18pt;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+    font-style: italic;
+    text-align: center;
+    margin: 5px auto;
+
+  }
+  h6 {
+    color: white;
+    float: left;
+    margin: 15px;
+    padding: 3px;
+    font-family: 'Source Sans Pro', sans-serif;
+
+  }
+  a {
+    color: white;
+    text-decoration: none;
+    border-bottom: 5px;
+    transition: color 0.5s ease;
+  }
+  a:hover {
+    color: black;
+  }
+  a:active {
+    color: black;
+  }
+  a:visited {
+    color: white;
+  }
+  a:focus {
+    color: black;
+  }
+
+  p {
+    font-size: 18px;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: left;
+    margin-left: 15px;
+
+  }
+
+  .a {
+    width: 1024px;
+    height: 164px;
+    float: left;
+    background-color: #000000
+  }
+  .b {
+    width: 1024px;
+    height: 161px;
+    float: left;
+    background-color: #B20000
+  }
+  .bb {
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    float: left;
+    background: url(../mu.png) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .bbb {
+    width: 700px;
+    height: 161px;
+    float: left;
+  }
+  .bbbb {
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    float: left;
+    background: url(../adidas.png) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .c {
+    width: 512px;
+    height: 601px;
+    float: left;
+    background: url(../ole.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .cc {
+    width: 512px;
+    height: 601px;
+    float: left;
+  }
+  .ccc {
+    width: 512px;
+    height: 601px;
+    float: left;
+    background: url(../rashford.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .d {
+    width: 20px;
+    height: 601px;
+    float: left;
+  }
+  .e {
+    width: 455px;
+    height: 515px;
+    float: left;
+    margin: 18px 18px 0;
+    background-color: white;
+  }
+  .w {
+    width: 455px;
+    height: 50px;
+    float: left;
+    margin: 0 18px 18px;
+    background-color: #B20000
+  }
+  .g {
+    width: 0;
+    height: 0;
+    border-top: 20px solid transparent;
+    border-bottom: 20px solid transparent;
+    border-left: 20px solid black;
+    float: left;
+  }
+  .o {
+    width: 512px;
+    height: 601px;
+    float: left;
+    background: url(../pogba.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .oo {
+    width: 512px;
+    height: 601px;
+    float: left;
+    background: url(../fred.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .h {
+    width: 1024px;
+    height: 211px;
+    float: left;
+    background-color: #000000
+  }
+  .hh {
+    width: 720px;
+    height: 211px;
+    float: left;
+    background-color: #111
+  }
+  .hh {
+    width: 512px;
+    height: 211px;
+    float: left;
+  }
+  .hhh {
+    width: 190px;
+    height: 60px;
+    margin: 68px 150px;
+    background-color: #B20000;
+    padding: 9px;
+  }
+  .m {
+    width: 1024px;
+    height: 46px;
+    float: left;
+    background-color: #333
+  }
+  .i {
+    width: 85px;
+    height: 85px;
+    margin: 30px;
+    float: left;
+  }
+  .ii {
+    width: 50px;
+    height: 50px;
+    margin: 30px;
+    float: left;
+  }
+  .aa{
+    width: 700px;
+    height: 164px;
+    float: left;
+  }
+
+  .bars {
+    width: 36px;
+    height: 2px;
+    margin: 5px;
+    float: left;
+    background-color: white;
+    align: center;
+  }
+  .s {
+    width: 341px;
+    height: 161px;
+    float: left;
+    align: center;
+    padding-top: 40px;
+  }
+  .ss {
+    width: 341px;
+    height: 161px;
+    float: left;
+    align: center;
+  padding-top: 10px;
+  }
+  .sss {
+    width: 341px;
+    height: 161px;
+    float: left;
+    align: center;
+    padding-top: 42px;
+  }
+  img {
+    width: 40%;
+    height: auto;
+  }
+}
+@media only screen and (max-width: 1023px)
+{
+  * {
+    box-sizing: border-box;
+  }
+  body {
+    text-align: center;
+    margin: 0 auto;
+    background-color: #EFEFEF
+
+
+  }
+  #container {
+    width: 768px;
+    height: 3147px;
+    margin: 0 auto;
+
+  }
+  h1 {
+  font-size: 70px;
+  color: white;
+  font-family: 'Passion One', cursive;
+  margin: 40px auto;
+  }
+  h2 {
+    font-size: 40px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+    padding: 25px;
+  }
+  h3 {
+    font-size: 30px;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: left;
+    margin-left: 15px;
+  }
+  i {
+    font-size: 30px;
+    color: white;
+  }
+  h4 {
+    font-size: 16pt;
+    color: white;
+    margin: 10px auto;
+    text-decoration: underline;
+    font-family: 'Source Sans Pro', sans-serif;
+
+  }
+  h5 {
+    font-size: 16pt;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+    font-style: italic;
+    text-align: center;
+    margin: 1px auto;
+
+  }
+  h6 {
+    color: white;
+    float: left;
+    margin: 15px;
+    padding: 3px;
+    font-family: 'Source Sans Pro', sans-serif;
+
+  }
+  a {
+    color: white;
+    text-decoration: none;
+    border-bottom: 5px;
+    transition: color 0.5s ease;
+  }
+  a:hover {
+    color: black;
+  }
+  a:active {
+    color: black;
+  }
+  a:visited {
+    color: white;
+  }
+  a:focus {
+    color: black;
+  }
+
+  p {
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: left;
+    margin-left: 15px;
+
+  }
+
+  .a {
+    width: 768px;
+    height: 164px;
+    float: left;
+    background-color: #000000
+  }
+  .b {
+    width: 768px;
+    height: 161px;
+    float: left;
+    background-color: #B20000
+  }
+  .bb {
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    float: left;
+    background: url(../mu.png) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .bbb {
+    width: 448px;
+    height: 161px;
+    float: left;
+  }
+  .bbbb {
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    float: left;
+    background: url(../adidas.png) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .c {
+    width: 768px;
+    height: 601px;
+    float: left;
+    background: url(../ole.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .cc {
+    width: 512px;
+    height: 601px;
+    float: left;
+  }
+  .ccc {
+    width: 768px;
+    height: 601px;
+    float: left;
+    background: url(../rashford.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .d {
+    width: 0px;
+    height: 0px;
+    float: left;
+  }
+  .e {
+    width: 730px;
+    height: 515px;
+    float: left;
+    margin: 18px 18px 0;
+    background-color: white;
+  }
+  .w {
+    width: 730px;
+    height: 50px;
+    float: left;
+    margin: 0 18px 18px;
+    background-color: #B20000
+  }
+  .g {
+    width: 0;
+    height: 0;
+    border-top: 0px solid transparent;
+    border-bottom: 0px solid transparent;
+    border-left: 0px solid black;
+    float: left;
+  }
+  .o {
+    width: 768px;
+    height: 601px;
+    float: left;
+    background: url(../pogba.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .oo {
+    width: 768px;
+    height: 601px;
+    float: left;
+    background: url(../fred.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .h {
+    width: 768px;
+    height: 211px;
+    float: left;
+    background-color: #000000
+  }
+  .hh {
+    width: 720px;
+    height: 211px;
+    float: left;
+    background-color: #111
+  }
+  .hh {
+    width: 384px;
+    height: 211px;
+    float: left;
+  }
+  .hhh {
+    width: 140px;
+    height: 45px;
+    margin: 68px 120px;
+    background-color: #B20000;
+    padding: 8px;
+  }
+  .m {
+    width: 768px;
+    height: 46px;
+    float: left;
+    background-color: #333
+  }
+  .i {
+    width: 85px;
+    height: 85px;
+    margin: 30px;
+    float: left;
+  }
+  .ii {
+    width: 50px;
+    height: 50px;
+    margin: 30px;
+    float: left;
+  }
+  .aa{
+    width: 478px;
+    height: 164px;
+    float: left;
+  }
+
+  .bars {
+    width: 32px;
+    height: 1px;
+    margin: 4px;
+    float: left;
+    background-color: white;
+    align: center;
+  }
+  .s {
+    width: 256px;
+    height: 161px;
+    float: left;
+    align: center;
+    padding-top: 55px;
+  }
+  .ss {
+    width: 256px;
+    height: 161px;
+    float: left;
+    align: center;
+  padding-top: 29px;
+  }
+  .sss {
+    width: 256px;
+    height: 161px;
+    float: left;
+    align: center;
+    padding-top: 54px;
+  }
+  img {
+    width: 40%;
+    height: auto;
+  }
+
+}
+@media only screen and (max-width: 467px)
+{
+  * {
+    box-sizing: border-box;
+  }
+  body {
+    text-align: center;
+    margin: 0 auto;
+    background-color: #EFEFEF
+
+
+  }
+  #container {
+    width: 320px;
+    height: 4000px;
+    margin: 0 auto;
+
+  }
+  h1 {
+  font-size: 50px;
+  color: white;
+  font-family: 'Passion One', cursive;
+  margin: 40px auto;
+  }
+  h2 {
+    font-size: 30px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+    padding: 25px;
+  }
+  h3 {
+    font-size: 24px;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: left;
+    margin-left: 15px;
+  }
+  i {
+    font-size: 30px;
+    color: white;
+  }
+  h4 {
+    font-size: 16pt;
+    color: white;
+    margin: 10px auto;
+    text-decoration: underline;
+    font-family: 'Source Sans Pro', sans-serif;
+
+  }
+  h5 {
+    font-size: 16pt;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+    font-style: italic;
+    text-align: center;
+    margin: 1px auto;
+
+  }
+  h6 {
+    color: white;
+    float: left;
+    margin: 15px;
+    padding: 3px;
+    font-family: 'Source Sans Pro', sans-serif;
+
+  }
+  a {
+    color: white;
+    text-decoration: none;
+    border-bottom: 5px;
+    transition: color 0.5s ease;
+  }
+  a:hover {
+    color: black;
+  }
+  a:active {
+    color: black;
+  }
+  a:visited {
+    color: white;
+  }
+  a:focus {
+    color: black;
+  }
+
+  p {
+    font-size: 16px;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: left;
+    margin-left: 15px;
+
+  }
+
+  .a {
+    width: 320px;
+    height: 164px;
+    float: left;
+    background-color: #000000
+  }
+  .b {
+    width: 320px;
+    height: 161px;
+    float: left;
+    background-color: #B20000
+  }
+  .bb {
+    width: 50px;
+    height: 100px;
+    margin: 30px;
+    float: left;
+    background: url(../mu.png) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .bbb {
+    width: 107px;
+    height: 161px;
+    float: left;
+  }
+  .bbbb {
+    width: 43px;
+    height: 100px;
+    margin: 30px;
+    float: left;
+    background: url(../adidas.png) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .bbbbb {
+    width: 320px;
+    height: 483px;
+    float: left;
+    background-color: #B20000;
+    margin: 124px 0 0 0;
+  }
+  .c {
+    width: 320px;
+    height: 320px;
+    float: left;
+    background: url(../ole.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .cc {
+    width: 512px;
+    height: 601px;
+    float: left;
+  }
+  .ccc {
+    width: 320px;
+    height: 320px;
+    float: left;
+    margin: 124px 0 0 0;
+    background: url(../rashford.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .d {
+    width: 0px;
+    height: 0px;
+    float: left;
+  }
+  .e {
+    width: 285px;
+    height: 640px;
+    float: left;
+    margin: 18px 18px 0;
+    background-color: white;
+  }
+  .w {
+    width: 285px;
+    height: 50px;
+    float: left;
+    margin: 0 18px 18px;
+    background-color: #B20000
+  }
+  .g {
+    width: 0;
+    height: 0;
+    border-top: 0px solid transparent;
+    border-bottom: 0px solid transparent;
+    border-left: 0px solid black;
+    float: left;
+  }
+  .o {
+    width: 320px;
+    height: 320px;
+    float: left;
+    background: url(../pogba.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .oo {
+    width: 320px;
+    height: 320px;
+    float: left;
+    background: url(../fred.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .h {
+    width: 320px;
+    height: 211px;
+    float: left;
+    background-color: #000000
+  }
+  .hh {
+    width: 160px;
+    height: 211px;
+    float: left;
+    background-color: #111
+  }
+  .hhh {
+    width: 140px;
+    height: 45px;
+    margin: 92px 15px;
+    background-color: #B20000;
+    padding: 8px;
+  }
+  .m {
+    width: 320px;
+    height: 120px;
+    float: left;
+    background-color: #333
+  }
+  .i {
+    width: 15px;
+    height: 85px;
+    margin: 30px;
+    float: left;
+  }
+  .ii {
+    width: 50px;
+    height: 50px;
+    margin: 0px;
+    float: left;
+  }
+  .aa{
+    width: 148px;
+    height: 164px;
+    float: left;
+    padding: 37px;
+  }
+
+  .bars {
+    width: 27px;
+    height: 1px;
+    margin: 4px;
+    float: left;
+    background-color: white;
+    align: center;
+  }
+  .s {
+    width: 326px;
+    height: 161px;
+    float: left;
+    align: center;
+    padding-top: 55px;
+  }
+  .ss {
+    width: 326px;
+    height: 161px;
+    float: left;
+    align: center;
+  padding-top: 29px;
+  }
+  .sss {
+    width: 326px;
+    height: 161px;
+    float: left;
+    align: center;
+    padding-top: 54px;
+  }
+  img {
+    width: 40%;
+    height: auto;
+  }
+}
