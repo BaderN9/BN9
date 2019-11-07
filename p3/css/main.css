@@ -426,7 +426,7 @@ img.2 {
     height: 100px;
     margin: 30px;
     float: left;
-    background: url(../mu.png) no-repeat center center;
+    background: url() no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -442,7 +442,7 @@ img.2 {
     height: 100px;
     margin: 30px;
     float: left;
-    background: url(../adidas.png) no-repeat center center;
+    background: url() no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
