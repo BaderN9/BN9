@@ -309,6 +309,10 @@ img.2 {
   width: 100%;
   height: auto;
 }
+img.3 {
+  width: 130%;
+  height: auto;
+}
 
 @media only screen and (max-width: 1439px)
 {
@@ -625,6 +629,10 @@ img.2 {
   }
   img.2 {
     width: 100%;
+    height: auto;
+  }
+  img.3 {
+    width: 130%;
     height: auto;
   }
 }
@@ -945,6 +953,10 @@ img.2 {
   }
   img.2 {
     width: 100%;
+    height: auto;
+  }
+  img.3 {
+    width: 130%;
     height: auto;
   }
 }
@@ -1270,6 +1282,10 @@ img.2 {
   }
   img.2 {
     width: 100%;
+    height: auto;
+  }
+  img.3 {
+    width: 130%;
     height: auto;
   }
 }
