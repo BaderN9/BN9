@@ -852,7 +852,7 @@ img {
   }
 
 }
-@media only screen and (max-width: 467px)
+@media only screen and (max-width: 767px)
 {
   * {
     box-sizing: border-box;
