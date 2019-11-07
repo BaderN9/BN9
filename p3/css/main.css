@@ -199,6 +199,28 @@ p {
   -o-background-size: cover;
   background-size: cover;
 }
+.ooo {
+  width: 715px;
+  height: 601px;
+  float: left;
+  display: none;
+  background: url(../pogba.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.oooo {
+  width: 715px;
+  height: 601px;
+  float: left;
+  display: none;
+  background: url(../fred.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 .h {
   width: 1440px;
   height: 211px;
@@ -484,6 +506,28 @@ img {
     -o-background-size: cover;
     background-size: cover;
   }
+  .ooo {
+    width: 715px;
+    height: 601px;
+    float: left;
+    display: none;
+    background: url(../pogba.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .oooo {
+    width: 715px;
+    height: 601px;
+    float: left;
+    display: none;
+    background: url(../fred.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
   .h {
     width: 1024px;
     height: 211px;
@@ -753,6 +797,7 @@ img {
     width: 768px;
     height: 601px;
     float: left;
+    display: none;
     background: url(../pogba.jpg) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -763,6 +808,29 @@ img {
     width: 768px;
     height: 601px;
     float: left;
+    display: none;
+    background: url(../fred.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .ooo {
+    width: 768px;
+    height: 601px;
+    float: left;
+    display: block;
+    background: url(../pogba.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .oooo {
+    width: 768px;
+    height: 601px;
+    float: left;
+    display: block;
     background: url(../fred.jpg) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -1047,6 +1115,7 @@ img {
     width: 320px;
     height: 320px;
     float: left;
+    display: none;
     background: url(../pogba.jpg) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -1057,6 +1126,29 @@ img {
     width: 320px;
     height: 320px;
     float: left;
+    display: none;
+    background: url(../fred.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .ooo {
+    width: 320px;
+    height: 320px;
+    float: left;
+    display: block;
+    background: url(../pogba.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .oooo {
+    width: 320px;
+    height: 320px;
+    float: left;
+    display: block;
     background: url(../fred.jpg) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
