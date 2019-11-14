@@ -37,17 +37,41 @@ h2 {
   text-align: center;
 
 }
+.barcelona {
+  text-align: center;
+
+}
+.liverpool {
+  text-align: center;
+}
 .font-size {
   font-size: 3vw;
 }
 .align {
-text-align: left;
+text-align: right;
+font-size: 1.5vw;
+text-decoration: underline; color: red;
+
 }
 .align2 {
-text-align: right;
+font-size: 3vw;
+
+
 }
 .align3 {
-  font-size: 3vw;
+  text-align: left;
+  font-size: 2.6vw;
+}
+.align4 {
+  text-align: right;
+  text-decoration: line-through; color: red;
+  font-size: 2.4vw;
+}
+.align5 {
+  text-align: left;
+  font-size: 2.5vw;
+  background-color: red;
+
 }
 .n1{
   transition: all 1s ease;
@@ -59,5 +83,11 @@ text-align: right;
   transition: all 1s ease;
 }
 .Final98 {
+  transition: all 1s ease;
+}
+.liverpool {
+  transition: all 1s ease;
+}
+.barcelona {
   transition: all 1s ease;
 }

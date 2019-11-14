@@ -14,4 +14,10 @@ $(document).ready(function() {
     $('.third').click(function() {
       $('.Final98').toggleClass('align3');
     });
+    $('.fourth').click(function() {
+      $('.liverpool').toggleClass('align4');
+    });
+    $('.fifth').click(function() {
+      $('.barcelona').toggleClass('align5');
+    });
 });
