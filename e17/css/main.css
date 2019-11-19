@@ -55,12 +55,14 @@ text-decoration: underline; color: red;
 }
 .align2 {
 font-size: 3vw;
+text-decoration: overline; color: red;
 
 
 }
 .align3 {
   text-align: left;
   font-size: 2.6vw;
+  text-decoration: dashed underline; color: red;
 }
 .align4 {
   text-align: right;
