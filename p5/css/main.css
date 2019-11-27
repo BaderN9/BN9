@@ -1,0 +1,100 @@
+* {
+  box-sizing: border-box;
+}
+html {
+  font-size: 16px;
+}
+body {
+  margin: 0;
+  background-color: #111;
+}
+h1 {
+  color: white;
+  font-size: 2em;
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+  margin: 0px;
+}
+.clickme {
+  width: 100vw;
+  height: 100vh;
+  padding: 50vh 50vw;
+}
+.box {
+  position: absolute;
+  width: 240px;
+  padding: 10px;
+  /* height: 33px; */
+}
+}
+.C {
+  /* float: left; */
+}
+.l {
+  /* float: left; */
+
+}
+.i {
+  /* float: left; */
+
+}
+.c {
+  /* float: left; */
+
+}
+.k {
+  /* float: left; */
+
+}
+.m {
+  /* float: left; */
+
+}
+.e {
+  /* float: left; */
+
+}
+
+.font-size {
+ font-size: 50px;
+}
+.align {
+
+}
+.align2 {
+
+
+}
+.align3 {
+
+}
+.align4 {
+
+}
+.align5 {
+
+}
+.align6 {
+
+}
+/* .C{
+  transition: all 1s ease;
+}
+.l {
+  transition: all 1s ease;
+}
+.i {
+  transition: all 1s ease;
+}
+.c {
+  transition: all 1s ease;
+}
+.k {
+  transition: all 1s ease;
+}
+.m {
+  transition: all 1s ease;
+}
+.e {
+  transition: all 1s ease;
+} */
