@@ -47,17 +47,19 @@ i {
 h4 {
   font-size: 20pt;
   color: white;
-  margin: 140px 0 0 0;
+  margin: 30px 0 0 0;
   font-family: 'Lobster', cursive;
 letter-spacing: 5px;
 }
 h5 {
-  font-size: 20pt;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 5vw;
+  font-family: 'Bebas Neue', cursive;
   color: white;
   font-style: italic;
   text-align: center;
-  margin: 5px auto;
+  margin: 100px 0 0 0;
+  letter-spacing: 5px;
+  background-color: #222;
 
 }
 h6 {
@@ -136,13 +138,16 @@ p {
 }
 .ee2 {
   width: 500px;
-  height: 500px;
-  float: left;
+  height: 100px;
+  text-align: center;
   padding: 45px 50px 0px 25px;
+  margin: auto;
+  color: white;
+
 }
 .w {
   width: 100vw;
-  height: 300px;
+  height: 2200px;
   float: left;
   background-color: #b86521;
   margin: 150px 0 0 0;
@@ -176,9 +181,28 @@ img.i2 {
   margin: 0;
 }
 img.i3 {
-  width: 140%;
+  width: 150px;
   height: auto;
+  float: left;
+  margin: 20px;
 }
+img.i4 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%;
+  text-align: center;
+  padding: 250px 0 0 0;
+}
+img.i5 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  text-align: center;
+  padding: 250px 0 0 0;
+}
+
 
 @media only screen and (max-width: 1439px)
 {
