@@ -1,5 +1,5 @@
 body {
-  background-color: #444;
+  background-color: #111;
   text-align: center;
 }
 img {
@@ -7,14 +7,17 @@ img {
 }
 h1 {
   color: black;
+  margin: 300px;
+  font-family: 'Bebas Neue', cursive;
+  letter-spacing: 8px;
 }
 h3 {
   color: green;
 }
 a {
-  color: black
+  font-size: 4vw;
+  color: white;
   text-decoration: none;
-  border-bottom: 5px dashed blue;
   transition: color 0.5s ease;
 
 }
