@@ -11,7 +11,6 @@ body {
 #container {
   width: 100vw;
   margin: 0 auto;
-
 }
 h1 {
 font-size: 16vw;
@@ -100,7 +99,7 @@ p {
   width: 100vw;
   height: 100vh;
   float: left;
-  background-color: #000000;
+  background-color: #000;
   margin: 0px;
 }
 .a2 {
@@ -135,6 +134,12 @@ p {
   float: left;
   padding: 100px 50px 0px 25px;
 }
+.ee2 {
+  width: 500px;
+  height: 500px;
+  float: left;
+  padding: 45px 50px 0px 25px;
+}
 .w {
   width: 100vw;
   height: 300px;
@@ -147,18 +152,26 @@ p {
   width: 100vw;
   height: 100vh;
   margin: 0px;
+
 }
 .spacing {
   width: 100vw;
   height: 100px;
   background-color: whitesmoke;
 }
+.tile7, .tile8, .tile9 {
+  width: 120px;
+  height: 75px;
+  margin: 50px;
+  float: left;
+  opacity: .8;
+}
+
 img {
-  width: 80%;
-  height: auto;
+  width: 600px;
 }
 img.i2 {
-  width: 100%;
+  width: 750px;
   height: auto;
   margin: 0;
 }
