@@ -116,6 +116,16 @@ h5.i5 {
   letter-spacing: 5px;
   background: none;
 }
+h5.i6 {
+  font-size: 5vw;
+  font-family: 'Bebas Neue', cursive;
+  color: black;
+  font-style: italic;
+  text-align: center;
+  margin: 0px 0 120px 0px;
+  letter-spacing: 5px;
+  background: none;
+}
 h6 {
   color: white;
   float: left;
@@ -199,12 +209,12 @@ p {
   width: 50vw;
   height: 753px;
   float: left;
-  margin: 100px 0 0 0;
+  margin: 100px 0 80px 0;
 
 }
 .c2 {
   width: 50vw;
-  height: 753px;
+  height: 600px;
   float: left;
   margin: 250px 0 0 0;
 
