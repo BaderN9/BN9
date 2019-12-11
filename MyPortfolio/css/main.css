@@ -97,6 +97,26 @@ h5.i3 {
   letter-spacing: 5px;
   background-color: #399BAF;
 }
+/* h5.i4 {
+  font-size: 5vw;
+  font-family: 'Bebas Neue', cursive;
+  color: white;
+  font-style: italic;
+  margin: 10px;
+  letter-spacing: 5px;
+  position: fixed;
+  background: none;
+  text-shadow:
+} */
+h5.i5 {
+  font-size: 25px;
+  font-family: 'Bebas Neue', cursive;
+  color: white;
+  text-align: center;
+  margin: 20px 0 0px 0;
+  letter-spacing: 5px;
+  background: none;
+}
 h6 {
   color: white;
   float: left;
@@ -275,7 +295,10 @@ p {
   float: left;
   opacity: .8;
 }
-
+span {
+  background: none;
+  float: left;
+}
 img {
   width: 600px;
 }
@@ -289,6 +312,7 @@ img.i3 {
   height: auto;
   float: left;
   margin: 10px 0px 10px 20px;
+  position: fixed;
 }
 img.i4 {
   display: block;
