@@ -65,7 +65,6 @@ h4.i2 {
   margin: 100px 0 80px 0;
   font-family: 'Lobster', cursive;
   letter-spacing: 5px;
-  background-color: #222;
 }
 h5 {
   font-size: 5vw;
@@ -263,7 +262,7 @@ p {
 }
 .w2 {
   width: 100vw;
-  height: 1000px;
+  height: 280px;
   float: left;
   background-color: #365897;
   margin: 150px 0 0 0;
