@@ -131,7 +131,13 @@ p {
   margin-left: 15px;
 
 }
-
+.top {
+  width: 6.5%;
+  height: 10%;
+  /* background-color: #000; */
+  margin: 0;
+  position: fixed;
+}
 .a {
   width: 100vw;
   height: 100vh;
@@ -151,10 +157,17 @@ p {
   background-color: whitesmoke;
   margin: 0;
 }
+.aa{
+  width: 100vw;
+  height: 100vh;
+  margin: 0px;
+  background-color: #;
 
+}
 .bbb {
   width: 100vw;
   margin: 10px 0 0 0;
+  background-color: #000
 }
 .line {
   width: 100vw;
@@ -249,12 +262,7 @@ p {
   background-color: #222;
   margin: 150px 0 0 0;
 }
-.aa{
-  width: 100vw;
-  height: 100vh;
-  margin: 0px;
 
-}
 .spacing {
   width: 100vw;
   height: 100px;
@@ -277,10 +285,10 @@ img.i2 {
   padding: 50px 0 0 0;
 }
 img.i3 {
-  width: 100px;
+  width: 75px;
   height: auto;
   float: left;
-  margin: 20px;
+  margin: 10px 0px 10px 20px;
 }
 img.i4 {
   display: block;
