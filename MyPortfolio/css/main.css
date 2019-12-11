@@ -20,6 +20,14 @@ margin: 0;
 letter-spacing: 5px;
 text-align: center;
 }
+h1.i2 {
+font-size: 16vw;
+color: white;
+font-family: 'Bebas Neue', cursive;
+margin: 140px 0 0 0;
+letter-spacing: 5px;
+text-align: center;
+}
 h2 {
   font-size: 25px;
   font-family: 'Lobster', cursive;
@@ -54,7 +62,7 @@ h4 {
 h4.i2 {
   font-size: 50pt;
   color: white;
-  margin: 100px 0 200px 0;
+  margin: 100px 0 80px 0;
   font-family: 'Lobster', cursive;
   letter-spacing: 5px;
   background-color: #222;
@@ -70,13 +78,14 @@ h5 {
   background-color: #222;
 }
 h5.i2 {
-  font-size: 3vw;
+  font-size: 30px;
   font-family: 'Bebas Neue', cursive;
   color: white;
   font-style: italic;
   text-align: center;
-  margin: 100px 0 0 0;
+  margin: 50px 0 0 0;
   letter-spacing: 5px;
+  background: none;
 }
 h6 {
   color: white;
@@ -183,12 +192,18 @@ p {
 }
 .w2 {
   width: 100vw;
-  height: 1500px;
+  height: 1000px;
   float: left;
   background-color: #365897;
   margin: 150px 0 0 0;
 }
-
+.w3 {
+  width: 100vw;
+  height: 1600px;
+  float: left;
+  background-color: #626584;
+  margin: 150px 0 0 0;
+}
 .aa{
   width: 100vw;
   height: 100vh;
@@ -214,10 +229,10 @@ img {
 img.i2 {
   width: 750px;
   height: auto;
-  margin: 0;
+  padding: 50px 0 0 0;
 }
 img.i3 {
-  width: 150px;
+  width: 100px;
   height: auto;
   float: left;
   margin: 20px;
@@ -245,6 +260,22 @@ img.i6 {
   width: 45%;
   text-align: center;
   padding: 0;
+}
+img.i7 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  text-align: center;
+  padding: 200px 0 0 0;
+}
+img.i8 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  text-align: center;
+  padding: 200px 0 0 0;
 }
 
 @media only screen and (max-width: 1439px)
