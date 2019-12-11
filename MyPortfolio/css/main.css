@@ -213,9 +213,17 @@ p {
   margin: auto;
   color: black;
 }
+.ee4 {
+  width: 800px;
+  height: 100px;
+  text-align: center;
+  padding: 0px 50px 0px 25px;
+  margin: 50px auto;
+  color: black;
+}
 .w {
   width: 100vw;
-  height: 2200px;
+  height: 2500px;
   float: left;
   background-color: #b86521;
   margin: 150px 0 0 0;
@@ -229,14 +237,14 @@ p {
 }
 .w3 {
   width: 100vw;
-  height: 1600px;
+  height: 1750px;
   float: left;
   background-color: #626584;
   margin: 150px 0 0 0;
 }
 .w4 {
   width: 100vw;
-  height: 5500px;
+  height: 6400px;
   float: left;
   background-color: #222;
   margin: 150px 0 0 0;
@@ -337,6 +345,24 @@ img.i11 {
   width: 100%;
   text-align: center;
   padding: 0;
+  margin: 50px auto;
+}
+img.i12 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60vw;
+  text-align: center;
+  padding: 0;
+  margin: 50px auto;
+}
+img.i13 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60vw;
+  text-align: center;
+  padding: 0 60px 0 0;
   margin: 50px auto;
 }
 video {
