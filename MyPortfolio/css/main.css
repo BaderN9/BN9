@@ -254,7 +254,7 @@ p {
   color: black;
 }
 .responsive {
-  margin: 70px;
+  margin: 50px 50px 50px 70px;
 }
 .w {
   width: 100vw;
