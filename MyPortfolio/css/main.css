@@ -145,10 +145,23 @@ p {
   background-color: whitesmoke;
   margin: 0;
 }
+.a3 {
+  width: 100vw;
+  float: left;
+  background-color: whitesmoke;
+  margin: 0;
+}
 
 .bbb {
   width: 100vw;
   margin: 10px 0 0 0;
+}
+.line {
+  width: 100vw;
+  height: 5px;
+  background-color: #222;
+  margin: 50px 0 50px 0;
+  text-align: center;
 }
 .c {
   width: 50vw;
@@ -308,6 +321,23 @@ img.i9 {
   width: 60%;
   text-align: center;
   padding: 200px 0 0 0;
+}
+img.i10 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%;
+  text-align: center;
+  padding: 200px 0 0 0;
+}
+img.i11 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  text-align: center;
+  padding: 0;
+  margin: 50px auto;
 }
 video {
 
