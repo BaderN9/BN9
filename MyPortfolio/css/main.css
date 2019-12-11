@@ -87,6 +87,16 @@ h5.i2 {
   letter-spacing: 5px;
   background: none;
 }
+h5.i3 {
+  font-size: 5vw;
+  font-family: 'Bebas Neue', cursive;
+  color: white;
+  font-style: italic;
+  text-align: center;
+  margin: 100px 0 0 0;
+  letter-spacing: 5px;
+  background-color: #399BAF;
+}
 h6 {
   color: white;
   float: left;
@@ -147,6 +157,13 @@ p {
   margin: 100px 0 0 0;
 
 }
+.c2 {
+  width: 50vw;
+  height: 753px;
+  float: left;
+  margin: 250px 0 0 0;
+
+}
 .e {
   width: 50vw;
   height: 753px;
@@ -202,6 +219,13 @@ p {
   height: 1600px;
   float: left;
   background-color: #626584;
+  margin: 150px 0 0 0;
+}
+.w4 {
+  width: 100vw;
+  height: 5500px;
+  float: left;
+  background-color: #222;
   margin: 150px 0 0 0;
 }
 .aa{
@@ -276,6 +300,17 @@ img.i8 {
   width: 60%;
   text-align: center;
   padding: 200px 0 0 0;
+}
+img.i9 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  text-align: center;
+  padding: 200px 0 0 0;
+}
+video {
+
 }
 
 @media only screen and (max-width: 1439px)
