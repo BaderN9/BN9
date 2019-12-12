@@ -248,7 +248,7 @@ p {
   color: white;
 }
 .ee3 {
-  width: 800px;
+  width: 1075px;
   height: 100px;
   text-align: center;
   padding: 0px 50px 0px 25px;
@@ -300,16 +300,13 @@ p {
   height: 100px;
   background-color: whitesmoke;
 }
-.tile7, .tile8, .tile9 {
-  width: 120px;
-  height: 75px;
-  margin: 50px;
-  float: left;
-  opacity: .8;
-}
+
 span {
   background: none;
   float: left;
+}
+span.dot {
+
 }
 img {
   width: 600px;
