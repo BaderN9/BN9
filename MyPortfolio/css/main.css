@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 body {
-  text-align: center;
+  /* text-align: center; */
   margin: 0 auto;
   background-color: whitesmoke
 
@@ -13,18 +13,26 @@ body {
   margin: 0 auto;
 }
 h1 {
-font-size: 16vw;
+font-size: 14vw;
 color: white;
 font-family: 'Bebas Neue', cursive;
-margin: 0;
+margin: 103px 0 -48px 0;
 letter-spacing: 5px;
 text-align: center;
 }
 h1.i2 {
-font-size: 16vw;
+font-size: 15vw;
 color: white;
 font-family: 'Bebas Neue', cursive;
-margin: 140px 0 0 0;
+margin: 65px 0 0 0;
+letter-spacing: 5px;
+text-align: center;
+}
+h1.i3 {
+font-size: 11vw;
+color: white;
+font-family: 'Bebas Neue', cursive;
+margin: -30px 0 0 0;
 letter-spacing: 5px;
 text-align: center;
 }
@@ -34,6 +42,7 @@ h2 {
   color: white;
   padding: 10px;
   letter-spacing: 2px;
+  text-align: center;
 }
 h2.h2-2 {
   font-size: 50px;
@@ -65,6 +74,7 @@ h4.i2 {
   margin: 100px 0 80px 0;
   font-family: 'Lobster', cursive;
   letter-spacing: 5px;
+  text-align: center;
 }
 h5 {
   font-size: 5vw;
@@ -126,6 +136,17 @@ h5.i6 {
   letter-spacing: 5px;
   background: none;
 }
+h5.i7 {
+  font-size: 40px;
+  font-family: 'Bebas Neue', cursive;
+  color: white;
+  font-style: italic;
+  margin: 0px 0 0 10px;
+  letter-spacing: 5px;
+  background: none;
+  text-shadow: 3px 2px #222;
+
+}
 h6 {
   color: white;
   float: left;
@@ -167,6 +188,9 @@ p {
   margin: 0;
   position: fixed;
 }
+.TwoLines {
+  margin: 105px 0 0 0;
+}
 .a {
   width: 100vw;
   height: 100vh;
@@ -185,6 +209,12 @@ p {
   float: left;
   background-color: whitesmoke;
   margin: 0;
+}
+.a4 {
+  width: 100vw;
+  float: left;
+  background-color: whitesmoke;
+  margin: 0 0 0 0;
 }
 .aa{
   width: 100vw;
@@ -304,10 +334,13 @@ p {
 span.logo {
   background: none;
   float: left;
+  padding: 10px;
+  position: fixed;
 }
 span {
   text-align: center;
 }
+
 img {
   width: 600px;
 }
@@ -315,6 +348,7 @@ img.i2 {
   width: 750px;
   height: auto;
   padding: 50px 0 0 0;
+  margin: auto 100px;
 }
 img.i3 {
   width: 75px;
@@ -322,6 +356,7 @@ img.i3 {
   float: left;
   margin: 10px 0px 10px 20px;
   position: fixed;
+
 }
 img.i4 {
   display: block;
@@ -406,8 +441,17 @@ img.i13 {
   padding: 0 60px 0 0;
   margin: 50px auto;
 }
+img.i14 {
+  margin: auto 150px;
+}
 video {
-
+  margin: auto 150px;
+}
+video.i1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 @media only screen and (max-width: 1439px)
