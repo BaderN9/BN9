@@ -216,6 +216,12 @@ p {
   background-color: whitesmoke;
   margin: 0 0 0 0;
 }
+.a5 {
+  width: 100vw;
+  float: left;
+  background-color: whitesmoke;
+  margin: 0 0 0 0;
+}
 .aa{
   width: 100vw;
   height: 100vh;
@@ -324,6 +330,13 @@ p {
   background-color: #222;
   margin: 150px 0 0 0;
 }
+.w5 {
+  width: 100vw;
+  height: 280px;
+  float: left;
+  background-color: #365897;
+  margin: 400px 0 0 0;
+}
 
 .spacing {
   width: 100vw;
@@ -378,9 +391,7 @@ img.i6 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 45%;
-  text-align: center;
-  padding: 0;
+  width: 35%;
 }
 img.i7 {
   display: block;
